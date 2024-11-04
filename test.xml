@@ -4,17 +4,5 @@
         <title>Sample RSS Feed</title>
         <link>https://www.example.com</link>
         <description>Example feed</description>
-        
-        <item>
-            <title>First Item</title>
-            <link>https://www.example.com/item1</link>
-            <description>Summary of the first item</description>
-        </item>
-        
-        <item>
-            <title>Second Item</title>
-            <link>https://www.example.com/item2</link>
-            <description>Summary of the second item</description>
-        </item>
     </channel>
 </rss>
