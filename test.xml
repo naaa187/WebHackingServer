@@ -4,5 +4,10 @@
         <title>Sample RSS Feed</title>
         <link>https://www.example.com</link>
         <description>Example feed</description>
+        
+        <item>
+            <title>First Item</title>
+        </item>
+
     </channel>
 </rss>
